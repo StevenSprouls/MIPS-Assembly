@@ -43,3 +43,4 @@ Exit:
 
 	li $v0, 10
 	syscall
+	testing
